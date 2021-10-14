@@ -1,3 +1,4 @@
+# Please Check Master Branch for my codes. :)
 # Meme-Share-App
 
 - This app displays you new memes by using an data from an API.
@@ -39,3 +40,5 @@ dependencies {
     annotationProcessor 'com.github.bumptech.glide:compiler:4.12.0'
   
 }
+
+# Hope this repository helped you in your project😁
