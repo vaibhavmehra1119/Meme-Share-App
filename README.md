@@ -3,6 +3,10 @@
 - This app displays you new memes by using an data from an API.
 - You can also share the url of that image to your frieinds via different text messaging apps.
 
+#ScreenShots
+![Screenshot_2021-10-14-13-13-18-392_com example memeshare](https://user-images.githubusercontent.com/66554913/137276645-2d7de539-5010-42f7-a0fa-2bc8bc57d4b6.jpg)![Screenshot_2021-10-14-13-13-29-838_com example memeshare](https://user-images.githubusercontent.com/66554913/137276659-8c37cf2a-4c4b-4cf4-bbf1-62053ca4ba59.jpg)![Screenshot_2021-10-14-13-14-09-990_com example memeshare](https://user-images.githubusercontent.com/66554913/137276667-937a26f9-8530-495e-b862-53626ecde598.jpg)![Screenshot_2021-10-14-13-14-23-468_android](https://user-images.githubusercontent.com/66554913/137276683-22c97618-0c41-402b-b502-c4d65e07ffe5.jpg)
+
+
 # API LINK
 https://meme-api.herokuapp.com/gimme
 
